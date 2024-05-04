@@ -1,0 +1,17 @@
+{
+  "name": "gemini-interview-assistant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@google/generative-ai": "^0.10.0",
+    "mime": "^4.0.3"
+  },
+  "scripts": {
+    "start": "node --env-file=config.env index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
