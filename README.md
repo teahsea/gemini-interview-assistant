@@ -39,4 +39,9 @@ npm run start resume.png
 
 This command will analyze the provided resume image and generate interview questions and preparation roadmaps tailored to the candidate's qualifications and experience.
 
+## Demo
+
+https://github.com/teahsea/gemini-interview-assistant/assets/46849277/a1a4180f-4519-46fa-b0ce-3040cf26f758
+
+
 
